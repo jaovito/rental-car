@@ -41,6 +41,12 @@ Após tudo configurado basta instalar as dependências com o comando abaixo
 $ npm install # ou yarn install
 ```
 
+Caso esteja vá utilizar o IOS antes de rodar o projeto deve abrir a pasta **ios** em seu terminal e rodar o comando:
+
+```sh
+$ pod install
+```
+
 Assim que tudo tiver concluido basta iniciar o projeto de acordo com a plataforma desejada, como demonstrado abaixo:
 
 ```sh
