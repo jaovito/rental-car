@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "rental",
+    "slug": "rental",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "org.name.rental"
+    }
+  },
+  "name": "rental"
+}
