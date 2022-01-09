@@ -33,6 +33,7 @@ O primeiro passo para instalar o projeto em sua máquina é clonar esse reposit�
 
 Com isso o projeto será clonado na sua máquina, juntamente com todo o código. Agora você precisa configurar suas credenciais do **Firebase** no projeto, para isso é só você pode seguir essa [documentação](https://rnfirebase.io/), não precisa fazer as alterações no código, somente baixar as credenciais no local correto conforme orientado na DOC.
 
+No caso do IOS talvez precise adicionar as credenciais do arquivo baixado nas URL Types do projeto no **XCode**, para isso basta abrir o XCode com o projeto e clicar 2x no projeto, após isso é só ir na aba **Info** e lá embaixo deve ter as **URL Types**. Basta expandir, clicar em adicionar e preencher a propriedade **URL Schemes** com o client_id do arquivo do Firebase baixado para IOS (deve ser feito o mesmo para o client ID reverso).
 
 Após tudo configurado basta instalar as dependências com o comando abaixo
 
