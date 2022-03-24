@@ -9,7 +9,7 @@
 O projeto foi desenvolvido utilizando 100% o [Firebase](https://firebase.google.com/?hl=pt) como backend. No App é possível você visualizar carros de luxo para
 aluga-los, ver os carros que alugou, juntamente com suas informações, como: Dono do carro, status do "pedido", valor que deverá ser pago e dia que deverá ser devolvido o carro.
 
-Este app não tem intenções de lucrar financeiramente, é somente para estudo e aprendizagem, visto que foi a primeira vez que utilizei o [Firebase](https://firebase.google.com/?hl=pt) com React Native
+Este app não tem intenções de lucrar financeiramente, é somente para estudo e aprendizagem.
 
 ## Técnologias 🚀
 
