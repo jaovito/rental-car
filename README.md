@@ -1,7 +1,7 @@
 <h1 align="center">Rental Car</h1>
 
 <p align="center">
-  <img src="./public/mobile.gif" alt="Mockup" height="400" />
+  <img src="./public/mobile.gif" alt="Mockup"  />
 </p>
 
 ## Descrição
